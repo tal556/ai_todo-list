@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div>ai todolist</div>
+      <div className='underline font-bold'>ai todolist</div>
     </>
   )
 }
